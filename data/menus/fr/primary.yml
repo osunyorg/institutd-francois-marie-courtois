@@ -19,8 +19,8 @@ items:
   descendants_targets: []
   path: "/persons"
   file: content/fr/persons/_index.html
-- title: Organisations
-  slug: organisations
+- title: Ils me font confiance
+  slug: ils-me-font-confiance
   target: "/organisations/"
   kind: page
   new_tab: false
